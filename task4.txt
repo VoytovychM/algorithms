@@ -1,0 +1,8 @@
+for i from array int
+
+if i < array.length/2
+    array[i] <=> array[length-1-i]
+
+Endfor
+
+Calculation Complexcity O(n/2)

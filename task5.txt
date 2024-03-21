@@ -1,0 +1,13 @@
+for i from int[]
+   for j = i + 1 from int[] 
+
+    if int[i] = int[j]
+    return true
+
+   Endfor
+
+Endfor
+
+return false
+
+Calculation Complexcity O(n)
